@@ -1,0 +1,5 @@
+chrome-driver
+.env
+page.png
+.venv
+__pycache__
